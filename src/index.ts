@@ -7,7 +7,7 @@ const app = express();
 let server;
 
 // setup cors.
-
+// prueba
 app.use(
   cors({
     origin: "*",
